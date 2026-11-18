@@ -9,6 +9,8 @@ The `nvim-treesitter` plugin provides
 
 For details on these and how to help improving them, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
+If something is not working, see the [troubleshooting guide](doc/TROUBLESHOOTING.md).
+
 >[!CAUTION]
 > This is a full, incompatible, rewrite: Treat this as a different plugin you need to set up from scratch following the instructions below. If you can't or don't want to update, specify the [`master` branch](https://github.com/nvim-treesitter/nvim-treesitter/blob/master/README.md) (which is locked but will remain available for backward compatibility with Nvim 0.11).
 

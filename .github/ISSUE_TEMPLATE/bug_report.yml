@@ -12,7 +12,7 @@ body:
         - I have updated my neovim version to latest _master_
         - I have updated my plugin to the latest version
         - I have run `:TSUpdate`
-        - I have read the [troubleshooting section](https://github.com/nvim-treesitter/nvim-treesitter#troubleshooting)
+        - I have read the [troubleshooting guide](https://github.com/nvim-treesitter/nvim-treesitter/blob/main/doc/TROUBLESHOOTING.md)
 
   - type: textarea
     attributes:
